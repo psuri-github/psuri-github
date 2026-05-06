@@ -2,7 +2,7 @@
 - 👀 I’m interested in making contributions to open source software
 - 🌱 I’m currently learning how to contribute to open source software
 - 💞️ I’m looking to move into software engineering roles aligned with AI infrastructure
-- 📫 How to reach me priyasuri@gmail.com
+- 📫 How to reach me priya.suri.2022@gmail.com
 - 😄 Pronouns: she, her
 - ⚡ Fun fact: I like to learn stuff and understand them very well
 <!---
